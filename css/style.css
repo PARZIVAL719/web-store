@@ -1,0 +1,47 @@
+.bg {
+    position: relative;
+    background-image: url("https://images.unsplash.com/photo-1554147090-e1221a04a025?q=80&w=2648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.shadow-bg {
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    width: 80px;
+}
+
+.font-thai {
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.navbar {
+    border: 2px solid #000000;
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin: 5px auto;
+    height: 50px;
+    max-width: 1200px;
+}
+
+.b-image{
+    width: 70%;
+    border-radius: 50%;
+}
+
+.a-image {
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    object-fit: cover;
+    padding: 50px;
+}
+
+.item-margin{
+    margin-top: 120px;
+}
